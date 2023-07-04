@@ -1,0 +1,15 @@
+Rating;Age_category
+PG-13;Teens
+TV-MA;Adults
+PG;Older Kids
+TV-14;Teens
+TV-PG;Older Kids
+TV-Y;Kids
+TV-Y7;Older Kids
+R;Adults
+TV-G;Kids
+G;Kids
+NC-17;Adults	
+NR;Adults
+TV-Y7-FV;Older Kids
+UR;Adults

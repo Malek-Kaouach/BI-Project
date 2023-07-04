@@ -1,0 +1,2 @@
+Less than 60min;Between 60 and 90min;Between 90 and 120 min;More than 120min
+<60min;[60min..90min];[90min..120min];>120min
