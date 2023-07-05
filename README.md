@@ -23,6 +23,16 @@ details such as cast, directors, ratings, release year, duration, etc.
 * Most directors are unsure on what type of movies that can attract a large audience.
 * Most directors are unsure of what age category they should focus on to gain views.
 
-## 5/ Additional Information:
+## 5/ Tools Used:
+
+Raw data collected from Kaggle:
+
+* https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+Talend: for data cleaning and correcting faulty values
+
+Power BI: for data visualization
+
+## 6/ Additional Information:
 
 Please check the attached [project report](https://github.com/mikasso01/BI-Project/blob/main/Business%20Intelligence%20Project%20report.pdf) for further details.
